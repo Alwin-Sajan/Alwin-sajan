@@ -15,8 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+[![Static Badge](https://img.shields.io/badge/Instagram-E4405F)](https://instagram.com/_present_legend_)
+[![Static Badge](https://img.shields.io/badge/in-LinkedIn-0077b5)](https://linkedin.com/in/alwin-sajan-102177255)
+
 <a href="https://linkedin.com/in/alwin-sajan-102177255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alwin Sajan" height="30" width="40" /></a>
+
 <a href="https://instagram.com/_present_legend_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_present_legend_" height="30" width="40" /></a>
+
 <a href="https://discord.gg/Alwin Sajan#8079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8079" height="30" width="40" /></a>
 </p>
 
