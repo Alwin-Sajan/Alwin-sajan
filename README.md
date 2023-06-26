@@ -1,4 +1,4 @@
-<img scr="img2.png"></img>
+![img](https://www.freelancinggig.com/blog/wp-content/uploads/2019/03/Good-Programmer-and-Graphic-Designer-at-the-Same-Time.png)
 
 <h1 align="center">Hi 👋, I'm Alwin Sajan</h1>
 <h3 align="center">A passionate Techie from India</h3>
