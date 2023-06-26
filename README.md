@@ -1,4 +1,4 @@
-
+<img scr="img2.png"></img>
 
 <h1 align="center">Hi 👋, I'm Alwin Sajan</h1>
 <h3 align="center">A passionate Techie from India</h3>
