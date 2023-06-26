@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently doing **B tech in CSE**
 
-- 🌱 I’m currently learning **Flask , Flutter**
+- 🌱 I’m currently learning **React , Flutter**
 
 - ⚡ Fun fact **python nerd**
 #### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
