@@ -9,9 +9,18 @@
 
 - 🔭 I’m currently doing **B tech in CSE**
 
-- 🌱 I’m currently learning **Flask , Java**
+- 🌱 I’m currently learning **Flask , Flutter**
 
 - ⚡ Fun fact **python nerd**
+#### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
+
+#### I also have experience in Python, allowing me to add dynamic functionality and interactivity to web projects. Recently, I've delved into the world of React, building upon my skills to create efficient and modular front-end applications.
+
+#### I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development. My goal is to create clean and minimalist designs that deliver exceptional user experiences.
+
+#### Feel free to check out my projects and collaborations on my GitHub profile. Let's connect and collaborate to bring your web ideas to life! 😊
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +31,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/<>-HTML-FF0000" alt="html" /> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-0077b5" alt="CSS" /> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JS-JavaScript-FFFF00" alt="JS" /> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Py-Python-ffde57" alt="python" /> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-MySQL-f29111" alt="mysql"/> </a>
+
+</p>
