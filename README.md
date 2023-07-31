@@ -12,6 +12,10 @@
 - 🌱 I’m currently learning **React , Flutter**
 
 - ⚡ Fun fact **python nerd**
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alwin-Sajan&theme=synthwave)](https://git.io/streak-stats)
+
 #### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
 
 #### I also have experience in Python, allowing me to add dynamic functionality and interactivity to web projects. Recently, I've delved into the world of React, building upon my skills to create efficient and modular front-end applications.
