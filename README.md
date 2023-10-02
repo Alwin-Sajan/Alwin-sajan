@@ -19,6 +19,7 @@
 
 [![An image of @alwin_sajan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alwin_sajan)](https://holopin.io/@alwin_sajan)
 
+
 #### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
 
 #### I also have experience in Python, allowing me to add dynamic functionality and interactivity to web projects. Recently, I've delved into the world of React, building upon my skills to create efficient and modular front-end applications.
