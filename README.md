@@ -16,7 +16,7 @@
 <div align="center">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=none)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&bg_color=00000000)
 
