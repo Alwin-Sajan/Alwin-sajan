@@ -13,15 +13,24 @@
 
 - ⚡ Fun fact **python nerd**
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alwin-sajan&theme=synthwave)](https://git.io/streak-stats)
-
-
+<div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=donut-vertical)](https://github.com/alwin-sajan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=compact&theme=vision-friendly-dark)](https://github.com/alwin-sajan/github-readme-stats)
+
+</div>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/<>-HTML-FF0000" alt="html" /> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-0077b5" alt="CSS" /> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JS-JavaScript-FFFF00" alt="JS" /> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Py-Python-ffde57" alt="python" /> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-MySQL-f29111" alt="mysql"/> </a>
+</p>
 
 
 #### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
@@ -42,12 +51,3 @@
 <a href="https://discord.gg/Alwin Sajan#8079" target="blank"><img  alt="Static Badge" src="https://img.shields.io/badge/Discode-7289da"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/<>-HTML-FF0000" alt="html" /> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-0077b5" alt="CSS" /> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JS-JavaScript-FFFF00" alt="JS" /> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Py-Python-ffde57" alt="python" /> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-MySQL-f29111" alt="mysql"/> </a>
-
-</p>
