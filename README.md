@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **python nerd**
 
-<div>
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&bg_color=00000000)
 
