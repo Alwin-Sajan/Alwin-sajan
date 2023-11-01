@@ -16,9 +16,6 @@
 <div align="center">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan& 
-theme=gruvbox&show_icons=true)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=donut-vertical)](https://github.com/alwin-sajan/github-readme-stats)
