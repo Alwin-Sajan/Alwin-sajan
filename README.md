@@ -41,7 +41,7 @@ I'm a front-end developer with a passion for creating sleek and intuitive user i
 </p>
 
 
-<div align="center">
+<div align="center" id="contact">
 <h3>Connect with me</h3>
 <hr>
 
@@ -66,7 +66,7 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 <hr>
 <div align="center">
 
-<h6>Alwin Sajan</h6>
+<a href="#contact"><h6>Alwin Sajan</h6></a>
 
 </div>
 
