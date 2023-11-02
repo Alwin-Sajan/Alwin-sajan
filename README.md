@@ -55,10 +55,11 @@ I'm a front-end developer with a passion for creating sleek and intuitive user i
 
 I also have experience in Python, allowing me to add dynamic functionality and interactivity to web projects. Recently, I've delved into the world of React, building upon my skills to create efficient and modular front-end applications.
 
-<br><br>
+<br>
 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development. My goal is to create clean and minimalist designs that deliver exceptional user experiences.
 
-#### Feel free to check out my projects and collaborations on my GitHub profile. Let's connect and collaborate to bring your web ideas to life! 😊
+<br>
+Feel free to check out my projects and collaborations on my GitHub profile. Let's connect and collaborate to bring your web ideas to life! 😊
 </p>
 
 
