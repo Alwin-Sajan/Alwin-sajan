@@ -47,7 +47,7 @@
 
 
 <h3 align="left">Connect with me</h3>
-___
+<hr>
 <div align="center">
 
 [![Static Badge](https://img.shields.io/badge/in-LinkedIn-0077b5)](https://linkedin.com/in/alwin-sajan-102177255)
