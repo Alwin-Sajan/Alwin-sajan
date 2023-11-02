@@ -48,10 +48,11 @@
 
 <h3 align="left">Connect with me</h3>
 ___
-<p align="center">
+<div align="center">
 
 [![Static Badge](https://img.shields.io/badge/in-LinkedIn-0077b5)](https://linkedin.com/in/alwin-sajan-102177255)
 [![Static Badge](https://img.shields.io/badge/Instagram-E4405F)](https://instagram.com/_present_legend_)
 <a href="https://discord.gg/Alwin Sajan#8079" target="blank"><img  alt="Static Badge" src="https://img.shields.io/badge/Discode-7289da"></a>
-</p>
+
+</div>
 
