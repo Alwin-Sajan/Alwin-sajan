@@ -34,6 +34,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-MySQL-f29111" alt="mysql"/> </a>
 </p>
 
+<p>
 
 #### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
 
