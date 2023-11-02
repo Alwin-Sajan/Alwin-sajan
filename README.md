@@ -63,10 +63,11 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 
 </p>
 
-<div>
 
+<footer align="center">
 
+<h6>Alwin Sajan</h6>
 
-</div>
+</footer>
 
 
