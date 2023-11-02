@@ -64,7 +64,7 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 </p>
 
 
-<div align="center" style="background-color:grey">
+<div align="center">
 
 <h6>Alwin Sajan</h6>
 
