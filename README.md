@@ -16,14 +16,20 @@
 <div align="center">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=donut-vertical)](https://github.com/alwin-sajan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/alwin-sajan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=compact&theme=vision-friendly-dark)](https://github.com/alwin-sajan/github-readme-stats)
 
 </div>
 
+
+<p>
+
+#### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
@@ -35,7 +41,17 @@
 </p>
 
 
-#### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
+<div align="center">
+<h3>Connect with me</h3>
+<hr>
+
+[![Static Badge](https://img.shields.io/badge/in-LinkedIn-0077b5)](https://linkedin.com/in/alwin-sajan-102177255)
+[![Static Badge](https://img.shields.io/badge/Instagram-E4405F)](https://instagram.com/_present_legend_)
+<a href="https://discord.gg/Alwin Sajan#8079" target="blank"><img  alt="Static Badge" src="https://img.shields.io/badge/Discode-7289da"></a>
+
+</div>
+
+<p>
 
 #### I also have experience in Python, allowing me to add dynamic functionality and interactivity to web projects. Recently, I've delved into the world of React, building upon my skills to create efficient and modular front-end applications.
 
@@ -45,11 +61,4 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-[![Static Badge](https://img.shields.io/badge/in-LinkedIn-0077b5)](https://linkedin.com/in/alwin-sajan-102177255)
-[![Static Badge](https://img.shields.io/badge/Instagram-E4405F)](https://instagram.com/_present_legend_)
-<a href="https://discord.gg/Alwin Sajan#8079" target="blank"><img  alt="Static Badge" src="https://img.shields.io/badge/Discode-7289da"></a>
-</p>
 
