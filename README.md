@@ -64,10 +64,10 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 </p>
 
 
-<footer align="center">
+<div align="center" style="background-color:grey">
 
 <h6>Alwin Sajan</h6>
 
-</footer>
+</div>
 
 
