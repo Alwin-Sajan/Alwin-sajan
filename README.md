@@ -16,11 +16,11 @@
 <div align="center">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&&theme=algolia\&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/alwin-sajan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=donut-vertical&theme=algolia)](https://github.com/alwin-sajan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=compact&theme=vision-friendly-dark)](https://github.com/alwin-sajan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=compact&theme=algolia)](https://github.com/alwin-sajan/github-readme-stats)
 
 </div>
 
@@ -41,7 +41,7 @@ I'm a front-end developer with a passion for creating sleek and intuitive user i
 </p>
 
 
-<div align="center">
+<div align="center" id="contact">
 <h3>Connect with me</h3>
 <hr>
 
@@ -63,5 +63,11 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 
 </p>
 
+<hr>
+<div align="center">
+
+<a href="#contact"><h6>Alwin Sajan</h6></a>
+
+</div>
 
 
