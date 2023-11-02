@@ -65,7 +65,7 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 
 <div>
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alwin-sajan)](https://github.com/alwin-sajan/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alwin-sajan)](https://github.com/alwin-sajan/github-readme-stats )
 
 </div>
 
