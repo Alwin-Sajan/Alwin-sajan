@@ -27,7 +27,7 @@
 
 <p color="black">
 
-#### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
+I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
 
 </p>
 
