@@ -66,7 +66,7 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 <hr>
 <div align="center">
 
-<a href="#contact"><h6>Alwin Sajan</h6></a>
+<a href="#contact"><h6>@Alwin-Sajan</h6></a>
 
 </div>
 
