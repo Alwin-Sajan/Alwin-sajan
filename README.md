@@ -25,6 +25,12 @@
 </div>
 
 
+<p>
+
+#### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
+
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/<>-HTML-FF0000" alt="html" /> </a> 
@@ -32,17 +38,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JS-JavaScript-FFFF00" alt="JS" /> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Py-Python-ffde57" alt="python" /> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-MySQL-f29111" alt="mysql"/> </a>
-</p>
-
-<p>
-
-#### I'm a front-end developer with a passion for creating sleek and intuitive user interfaces. My expertise lies in HTML, CSS, and JavaScript, which I use to craft engaging and responsive web experiences.
-
-#### I also have experience in Python, allowing me to add dynamic functionality and interactivity to web projects. Recently, I've delved into the world of React, building upon my skills to create efficient and modular front-end applications.
-
-#### I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development. My goal is to create clean and minimalist designs that deliver exceptional user experiences.
-
-#### Feel free to check out my projects and collaborations on my GitHub profile. Let's connect and collaborate to bring your web ideas to life! 😊
 </p>
 
 
@@ -55,4 +50,15 @@
 <a href="https://discord.gg/Alwin Sajan#8079" target="blank"><img  alt="Static Badge" src="https://img.shields.io/badge/Discode-7289da"></a>
 
 </div>
+
+<p>
+
+#### I also have experience in Python, allowing me to add dynamic functionality and interactivity to web projects. Recently, I've delved into the world of React, building upon my skills to create efficient and modular front-end applications.
+
+#### I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development. My goal is to create clean and minimalist designs that deliver exceptional user experiences.
+
+#### Feel free to check out my projects and collaborations on my GitHub profile. Let's connect and collaborate to bring your web ideas to life! 😊
+</p>
+
+
 
