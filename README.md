@@ -16,7 +16,7 @@
 <div align="center">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&&theme=algolia\&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=donut-vertical&theme=algolia)](https://github.com/alwin-sajan/github-readme-stats)
 
@@ -65,7 +65,7 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 
 <div>
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alwin-sajan)](https://github.com/alwin-sajan/github-readme-stats )
+
 
 </div>
 
