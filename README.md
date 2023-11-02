@@ -63,7 +63,7 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 
 </p>
 
-
+<hr>
 <div align="center">
 
 <h6>Alwin Sajan</h6>
