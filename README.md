@@ -46,9 +46,9 @@
 </p>
 
 
-<h3 align="left">Connect with me</h3>
-<hr>
 <div align="center">
+<h3>Connect with me</h3>
+<hr>
 
 [![Static Badge](https://img.shields.io/badge/in-LinkedIn-0077b5)](https://linkedin.com/in/alwin-sajan-102177255)
 [![Static Badge](https://img.shields.io/badge/Instagram-E4405F)](https://instagram.com/_present_legend_)
