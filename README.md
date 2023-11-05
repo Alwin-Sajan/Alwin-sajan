@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React , Flutter**
 
-- ⚡ Fun fact **python nerd**
+- ⚡ **python nerd**
 
 <div align="center">
 
