@@ -64,11 +64,11 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 
 </p>
 
-<p align="center">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=compact&theme=algolia)](https://github.com/alwin-sajan/github-readme-stats)
 
-</p>
+</div>
 <hr>
 <div align="center">
 
