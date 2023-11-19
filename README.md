@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://www.freelancinggig.com/blog/wp-content/uploads/2019/03/Good-Programmer-and-Graphic-Designer-at-the-Same-Time.png" />
+  
+  <img src="https://usagif.com/wp-content/uploads/gifs/starfall-gif-45.gif" />
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Alwin Sajan</h1>
@@ -17,10 +19,9 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwin-sajan&show_icons=true&&theme=algolia\&rank_icon=github)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=donut-vertical&theme=algolia)](https://github.com/alwin-sajan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=compact&theme=algolia)](https://github.com/alwin-sajan/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alwin-Sajan&theme=algolia&card_width=495)](https://git.io/streak-stats)
 
 </div>
 
@@ -63,11 +64,16 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 
 </p>
 
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=compact&theme=algolia)](https://github.com/alwin-sajan/github-readme-stats)
+
+</p>
 <hr>
 <div align="center">
 
-<a href="#contact"><h6>@Alwin-Sajan</h6></a>
-
+  <a href="#contact"><h6>@Alwin-Sajan</h6></a>
+  <img src="https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif" />
 </div>
 
 
