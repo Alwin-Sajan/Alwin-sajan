@@ -70,7 +70,7 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alwin-sajan&theme=onedark)](https://github.com/alwin-sajan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alwin-sajan&theme=algolia)](https://github.com/alwin-sajan/github-profile-trophy)
 
 <hr>
 <div align="center">
