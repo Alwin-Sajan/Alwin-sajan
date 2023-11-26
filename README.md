@@ -69,6 +69,9 @@ Feel free to check out my projects and collaborations on my GitHub profile. Let'
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-sajan&layout=compact&theme=algolia)](https://github.com/alwin-sajan/github-readme-stats)
 
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alwin-sajan&theme=onedark)](https://github.com/alwin-sajan/github-profile-trophy)
+
 <hr>
 <div align="center">
 
