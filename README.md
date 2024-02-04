@@ -4,7 +4,7 @@
   
 </p>
 
-<h1 align="center">Hi 👋,<br>I'm Alwin Sajan</h1>
+<h1 align="center">Hi 👋,I'm Alwin Sajan</h1>
 <h3 align="center">A passionate Techie from India</h3>
 
 
