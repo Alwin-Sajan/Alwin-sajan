@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently doing **B tech in CSE**
 
-- 🌱 I’m currently learning **React , Flutter**
+- 🌱 I’m currently learning **ML & AI , Flutter**
 
 - ⚡ **Python nerd**
 
