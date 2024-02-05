@@ -41,7 +41,6 @@ I'm a front-end developer with a passion for creating sleek and intuitive user i
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JS-JavaScript-FFFF00" alt="JS" /> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Py-Python-ffde57" alt="python" /> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-MySQL-f29111" alt="mysql"/> </a>
-
 <a href="https://www.w3.org/Java/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/☕-Java-FFFF00" alt="JS" /> </a>
 
 </p>
