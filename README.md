@@ -7,8 +7,7 @@
 <h1 align="center">Hi 👋,I'm Alwin Sajan</h1>
 <h3 align="center">A passionate Techie from India</h3>
 
-
-[![Visited](https://visitcount.itsvg.in/api?id=alwin-sajan&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Alwin-Sajan&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently doing **B tech in CSE**
 
