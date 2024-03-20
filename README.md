@@ -7,7 +7,6 @@
 <h1 align="center">Hi 👋,I'm Alwin Sajan</h1>
 <h3 align="center">A passionate Techie from India</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Alwin-Sajan&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently doing **B tech in CSE**
 
@@ -67,6 +66,8 @@ I'm constantly learning and exploring new technologies to stay up-to-date with t
 Feel free to check out my projects and collaborations on my GitHub profile. Let's connect and collaborate to bring your web ideas to life! 😊
 
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=Alwin-Sajan&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <div align="center">
 
