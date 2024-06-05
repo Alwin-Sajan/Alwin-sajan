@@ -16,6 +16,26 @@
 
 #### Portfolio Link - [Alwin-Sajan](https://alwin-sajan.github.io/) 
 
+
+<h1 align="center">Projects</h1>
+
+
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [College  Website NIST](https://collage-website-nist.vercel.app/)   | This is a College Website build using React js , Tailwind Css and using vite. | 
+| [Uifry](https://uifry-coral.vercel.app/)     | Uifry an financial descisions support website made using React js , Tailwind CSS and Framer motion |
+| [My Portfolio Website](https://alwin-sajan.github.io/)     | Portfolio website build using HTML, CSS, JavaScript . |
+| [Netflix-Clone](https://github.com/Alwin-Sajan/Netflix-Clone#)     | This is a Netflix website clone that I made using HTML and CSS. |
+| [Quiz App](https://alwin-sajan.github.io/Quiz-App/)     | This is a Quiz App created with Reactjs. |
+| [Spotify Clone](https://github.com/Alwin-Sajan/Spotify-clone)     | This is a Spotify Clone created using React + Vite |
+| [Salary Prediction Web App](https://github.com/Alwin-Sajan/Salary_Prediction_ML)     | This web application predicts a salary based on the number of years of experience using a linear regression model. The application is built using Flask, a Python web framework. |
+
+
+
+
+
 <div align="center">
 
 
