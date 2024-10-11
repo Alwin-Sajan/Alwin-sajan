@@ -25,7 +25,7 @@ I'm a front-end developer with a passion for creating sleek and intuitive user i
 
 - 🔭 I’m currently doing **B tech in CSE**
 
-- 🌱 I’m currently learning **ML & AI , Flutter**
+- 🌱 I’m currently learning **ML & AI**
 
 - ⚡ **Python nerd**
 
