@@ -36,8 +36,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [🧠 Waste Litter Detection System](https://github.com/Alwin-Sajan/Waste-Litter-Detection) | YOLOv8, Streamlit | Detects litter in images using object detection and AI |
-| [🏨 Hostel Management System](https://github.com/Alwin-Sajan/Hostel-Management-System) | React, Flask, XAMPP | Manage hostel operations like bookings and records |
+| [🏨 Hostel Management System](https://github.com/Alwin-Sajan/Hostel-Management) | React, Flask, XAMPP | Manage hostel operations like bookings and records |
 | [⚡ Ft.NESS](https://ft-ness.vercel.app/) | Next.js, Tailwind, Framer Motion | Interactive fitness landing page with stunning animations |
 | [🏢 Emerald Elevators](http://emeraldelevatorsltd.com/) | React.js, Tailwind CSS, SEO | Official site for elevator business, optimized for SEO |
 | [💸 Uifry](https://uifry-coral.vercel.app/) | React, Tailwind, Framer Motion | Financial decision support UI, inspired by modern fintech apps |
